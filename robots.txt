@@ -1,0 +1,48 @@
+# robots.txt for Prishiv Energy Private Limited
+# Optimized for Web SEO and AI Search Agent indexing
+
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /components/
+
+# Explicitly Allow OpenAI Crawler (ChatGPT & SearchGPT)
+User-agent: GPTBot
+Allow: /
+Disallow: /includes/
+Disallow: /components/
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Explicitly Allow Google LLM Crawler (Gemini)
+User-agent: Google-Extended
+Allow: /
+Disallow: /includes/
+Disallow: /components/
+
+# Explicitly Allow Anthropic Crawler (Claude)
+User-agent: Anthropic-AI
+Allow: /
+Disallow: /includes/
+Disallow: /components/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /includes/
+Disallow: /components/
+
+# Explicitly Allow Perplexity AI Crawler
+User-agent: PerplexityBot
+Allow: /
+Disallow: /includes/
+Disallow: /components/
+
+# Explicitly Allow Cohere AI Crawler
+User-agent: cohere-ai
+Allow: /
+Disallow: /includes/
+Disallow: /components/
+
+# XML Sitemap Link
+Sitemap: https://www.prishivenergy.com/sitemap.xml

@@ -1,0 +1,49 @@
+# Prishiv Energy Private Limited
+
+> Powering Progress, Delivering Trust
+
+Prishiv Energy Private Limited is a premium supplier and turnkey solutions partner for heavy-duty industrial power infrastructure. Serving major builders, continuous processing industries, and government infrastructure projects throughout India.
+
+## Core Offerings
+
+### 1. Diesel Generator Sets (DG Sets)
+* **Capacity Range:** 5 kVA to 3000 kVA
+* **Engines:** Cummins, Kirloskar, Perkins, Caterpillar
+* **Alternators:** Stamford, Leroy Somer (H-Class, copper wound)
+* **Compliance:** CPCB IV+ emission certified, soundproof enclosures (<75 dBA at 1m)
+* **Controls:** AMF Panels & Multi-generator synchronization grid design
+
+### 2. Distribution & Power Transformers
+* **Capacity Range:** Up to 50 MVA, 132kV class
+* **Types:** Oil-immersed (ONAN/ONAF) and dry-type (cast resin/vacuum impregnated)
+* **Materials:** Electrolytic grade copper windings, CRGO steel cores (BEE Star Rated)
+* **Options:** Low-loss Amorphous core transformers (reduces no-load loss by 70%)
+
+### 3. Servo Voltage Stabilizers
+* **Capacity Range:** 10 kVA to 2000 kVA
+* **Models:** Air-cooled (up to 150 kVA) and Oil-cooled (up to 2000 kVA)
+* **Precision:** Correction speed >35V/sec, output regulation ±0.5%
+* **Applications:** Protecting MRI machines, CNC processing lines, printing presses, and server grids
+
+### 4. Industrial Pump Systems
+* **Models:** Split-case centrifugal pumps, multi-stage inline booster pumps, borewell submersibles
+* **Motors:** IE3 Premium Efficiency motors equipped with VFD (Variable Frequency Drive) smart controls
+* **Networks:** Fire fighting networks, municipal grids, and real estate booster networks
+
+---
+
+## Technical & Engineering Services
+* **Layout Design:** Designing indoor/outdoor high-voltage substations, cabling schedules, and earth testing.
+* **Synchronization:** Multi-generator load sharing and transient safety audits.
+* **Annual Maintenance Contracts (AMC):** 
+  - Standard preventative maintenance schedules (A, B, C, D checks)
+  - 2-hour field response SLA inside major industrial zones
+  - Ready spare parts warehousing depots in Noida, Mumbai, Chennai, and Kolkata
+
+---
+
+## Corporate Directory & Contacts
+* **Corporate Office:** Prishiv Corporate Tower, Sector 62, Noida, Uttar Pradesh, 201301
+* **Official Sales Email:** sales@prishivenergy.com
+* **Official Phone:** +91-9876543210
+* **Working Hours:** Monday - Saturday, 9:00 AM - 6:00 PM

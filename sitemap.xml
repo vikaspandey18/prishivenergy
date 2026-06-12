@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Homepage -->
+    <url>
+        <loc>https://www.prishivenergy.com/</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.00</priority>
+    </url>
+    
+    <!-- About Us -->
+    <url>
+        <loc>https://www.prishivenergy.com/about</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Services -->
+    <url>
+        <loc>https://www.prishivenergy.com/services</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Products -->
+    <url>
+        <loc>https://www.prishivenergy.com/products</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+    
+    <!-- Case Studies -->
+    <url>
+        <loc>https://www.prishivenergy.com/projects</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.70</priority>
+    </url>
+    
+    <!-- Sectors / Industries -->
+    <url>
+        <loc>https://www.prishivenergy.com/industries</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+    
+    <!-- Sustainability -->
+    <url>
+        <loc>https://www.prishivenergy.com/sustainability</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.70</priority>
+    </url>
+    
+    <!-- Careers -->
+    <url>
+        <loc>https://www.prishivenergy.com/careers</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.60</priority>
+    </url>
+    
+    <!-- Blog Hub -->
+    <url>
+        <loc>https://www.prishivenergy.com/blog</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Contact Us -->
+    <url>
+        <loc>https://www.prishivenergy.com/contact</loc>
+        <lastmod>2026-06-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.90</priority>
+    </url>
+</urlset>
